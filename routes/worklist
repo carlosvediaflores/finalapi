@@ -1,0 +1,29 @@
+Lista de tareas. API-REST
+<=================================================================>
+<=================================================================>
+[X] Creación de Esquemas de Base de datos.
+    [X] Esquema Coleccion de Usuarios.
+       Atributos.
+       Nick, Email, Password, Roles, PlayList
+    [X] Esquema Coleccion de Musica.
+       title, subtitle, genero, commentaries, Album, year, image,
+       pathfile.
+[X] Conexion a la base de datos
+[X] Registro de Usuarios
+[X] Lista de usuarios
+[X] Actualización de datos
+[X] Borrado de usuarios
+[o] Login
+[x] Validación de datos en los servicios de registro y login.
+[x] Envio de pistas de Audio, al servidor.
+    Subida de archivos. mp3, imagen 
+    Exploración de Metadatos de las pistas de Audio.
+[x] Lista de canciones 
+[x] Busqueda de canciones.
+[x] Creación de playlist por usuario.
+[x] Recuperación de playlist, por usuario
+[] Instalacion de JWT.
+    Creación de Middleware para verificación de roles.
+    y Permisos.
+[x] Restriccion a los archivos publicos
+[] Pruebas de los servicios.
